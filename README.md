@@ -1,6 +1,6 @@
 "# MERN-Task-Manager-App-deploy" 
 
-A lightweight and efficient Task Management App designed to help individuals and teams organize, prioritize, and track tasks with ease.
+A lightweight and efficient Task Management App designed prioritize, and track tasks with ease.
 
 Features
 Task Creation: Add tasks with due dates.
